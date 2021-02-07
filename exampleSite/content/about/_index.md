@@ -5,4 +5,4 @@ image: images/author.jpg
 description: this is meta description
 
 ---
-hello Ekow here
+yaw gyan here
