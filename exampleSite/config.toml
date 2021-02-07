@@ -1,11 +1,11 @@
 ######################## default configuration ####################
-baseURL = "https://unruffled-gates-c88590.netlify.app/"
+baseURL = "https://ekowtest.netlify.app"
 languageCode = "en-us"
 title = "Liva | Personal blog template"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
-disqusShortname = ""
+disqusShortname = "ekowbaah"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
